@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "780927298293",
+    "project_id": "common-firebase-for-test",
+    "storage_bucket": "common-firebase-for-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780927298293:android:2f7f2d4e76b2f29c99f3bc",
+        "android_client_info": {
+          "package_name": "com.andreisingeleytsev.footballnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpdJn0IiNryJq6LnZhFwE6md7VdaaZLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780927298293:android:42583ada66809e8099f3bc",
+        "android_client_info": {
+          "package_name": "com.andreykosarygin.luckyfuhottei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpdJn0IiNryJq6LnZhFwE6md7VdaaZLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780927298293:android:3db34100055667d899f3bc",
+        "android_client_info": {
+          "package_name": "com.apiofpex.sportapiwalpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpdJn0IiNryJq6LnZhFwE6md7VdaaZLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780927298293:android:35fcf1783a504b1399f3bc",
+        "android_client_info": {
+          "package_name": "com.example.catsgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpdJn0IiNryJq6LnZhFwE6md7VdaaZLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780927298293:android:424dc4e1d9a5ab1f99f3bc",
+        "android_client_info": {
+          "package_name": "com.shum.wildsafari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpdJn0IiNryJq6LnZhFwE6md7VdaaZLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780927298293-5rvomua54uk3lrkcep46udrovevqmbq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

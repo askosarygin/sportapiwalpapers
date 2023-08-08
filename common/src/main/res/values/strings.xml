@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">wps</string>
+
+    //ScreenStart
+    <string name="sports">SPORTS</string>
+    <string name="quiz">QUIZ</string>
+    <string name="start_game">START GAME</string>
+    <string name="wallpapers">WALLPAPERS</string>
+    <string name="sports_quiz">SPORTS QUIZ</string>
+
+    //Common
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="points_balance">Points balance:</string>
+
+    //ScreenDifficultySelection
+    <string name="select_difficulty_of_the_quiz">Select difficulty of the quiz</string>
+    <string name="easy">EASY</string>
+    <string name="normal">NORMAL</string>
+    <string name="hard">HARD</string>
+
+    //Screen wallpaper
+    <string name="buy">BUY</string>
+    <string name="wallpaper_installed_on_desktop">Wallpaper installed on desktop</string>
+    <string name="set_wallpaper_to_phone">Set wallpaper to phone</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="points_price">points</string>
+    <string name="bought">(bought)</string>
+    <string name="no_enough_points">No enough points</string>
+    <string name="do_you_want_buy_this_wallpaper">Do you want buy this wallpaper?</string>
+
+    //Screen wallpapers store
+    <string name="welcome_to_the_wallpapers_store">Welcome to the Wallpapers store</string>
+
+    //Screen game
+    <string name="points">Points:</string>
+    <string name="next_question">Next question</string>
+    <string name="time_is_over">Time is over</string>
+    <string name="main_screen">Main screen</string>
+    <string name="play_again">Play again</string>
+
+    <string name="game_result_first_part">You answered</string>
+    <string name="game_result_second_part">questions correctly, your score increased by</string>
+    <string name="game_result_third_part">points</string>
+
+    //Content descriptions
+    <string name="content_description_quiz_logo">Quiz logo</string>
+    <string name="content_description_wallpaper_image">Wallpaper image</string>
+</resources>
